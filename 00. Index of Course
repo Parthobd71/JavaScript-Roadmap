@@ -1,0 +1,54 @@
+JavaScript_Roadmap/
+│
+├── basic/
+│   ├── 01_variables.js
+│   ├── 02_datatypes.js
+│   ├── 03_operators.js
+│   ├── 04_type_conversion.js
+│   ├── 05_control_flow.js
+│   ├── 06_loops.js
+│   ├── 07_ternary.js
+│   ├── 08_time_date_weather.js
+│
+├── functions/
+│   ├── 01_functions_basics.js
+│   ├── 02_arrow_functions.js
+│   ├── 03_parameters_defaults.js
+│   ├── 04_returning_values.js
+│   ├── 05_callback_functions.js
+│   ├── 06_higher_order_functions.js
+│   ├── 07_closures.js
+│
+├── objects_arrays/
+│   ├── 01_objects_basics.js
+│   ├── 02_array_basics.js
+│   ├── 03_array_methods.js
+│
+├── frontend_frameworks/
+│   ├── react_01_components.js
+│   ├── react_02_props_state.js
+│   ├── react_03_hooks.js
+│   ├── react_04_routing.js
+│   ├── react_05_api_fetch.js
+│   ├── react_06_api_axios.js
+│
+├── backend_node/
+│   ├── 01_node_basics.js
+│   ├── 02_express_basics.js
+│   ├── 03_mongodb_crud.js
+│   ├── 04_auth_jwt.js
+│
+├── fullstack/
+│   ├── 01_connect_frontend_backend.js
+│   ├── 02_form_submission.js
+│   ├── 03_fetch_api_in_react.js
+│   ├── 04_deployment_notes.js
+│   ├── 05_real_projects.js
+│
+├── advanced/
+│   ├── 01_typescript_basics.js
+│   ├── 02_websockets.js
+│   ├── 03_performance_optimization.js
+│   ├── 04_testing.js
+│   ├── 05_graphql.js
+
